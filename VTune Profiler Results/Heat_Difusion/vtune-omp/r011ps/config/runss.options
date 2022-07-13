@@ -1,0 +1,14 @@
+-r
+C:\Users\bianca.palade\source\repos\Heat_Difusion\Heat_Difusion\VTune Profiler Results\Heat_Difusion\r011ps
+--stack-stitching
+--data-limit-mb=1000
+--disk-space-limit=0
+--mrte-type=java,dotnet
+--itt-config=frame
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:nostack
+--interval=100
+--
+C:\Users\bianca.palade\source\repos\Heat_Difusion\x64\Debug\Heat_Difusion.exe
